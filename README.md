@@ -3,4 +3,4 @@ docker image which has nokogiri and uri
 
 # version
 
-0.1.0
+0.1.1
